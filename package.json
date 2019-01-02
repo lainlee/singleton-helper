@@ -1,0 +1,27 @@
+{
+  "name": "singletonjs",
+  "version": "1.0.0",
+  "description": "A helper which convert your function to a singleton function, e.g. a async Promise you want fetch once at a certain time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lainlee/singletonjs.git"
+  },
+  "keywords": [
+    "singleton",
+    "promise",
+    "Promise",
+    "async",
+    "once",
+    "convert"
+  ],
+  "author": "lixf (623536309@qq.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lainlee/singletonjs/issues"
+  },
+  "homepage": "https://github.com/lainlee/singletonjs#readme"
+}
